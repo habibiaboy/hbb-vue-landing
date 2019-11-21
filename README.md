@@ -1,6 +1,6 @@
 # hbb-vue-landing
 
-Test Login with firebase
+The exercise moves from static to vue.js
 
 
 ### Installing
